@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(#0e1316, #1a2327, #0c1518);
+    height: 100vh;
+    box-shadow: 0px 5px 93px 4px rgba(205, 213, 219, 0.36) inset;
+    text-align: center; 
+}
+h1 {
+    color:#e6edf1;
+    font-family: Playfair Display, serif;
+}
+p {
+    color:#e6edf1;
+    font-family: Roboto, sans-serif;
+}
+button {
+    background-color: #11161a;
+    color:#e6edf1;
+        border: 2px solid #d7e3e8;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
